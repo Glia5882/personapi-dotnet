@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\views\\estudiomvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\views\\estudiomvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\views\\estudiomvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\views\\estudiomvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\controllers\\estudiomvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\controllers\\estudiomvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\EstudioMvc\\Index.cshtml",
-              "RelativeDocumentMoniker": "personapi-dotnet\\Views\\EstudioMvc\\Index.cshtml",
-              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\EstudioMvc\\Index.cshtml",
-              "RelativeToolTip": "personapi-dotnet\\Views\\EstudioMvc\\Index.cshtml",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwB0AAAAlAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\EstudioMvc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Views\\EstudioMvc\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\EstudioMvc\\Delete.cshtml",
+              "RelativeToolTip": "personapi-dotnet\\Views\\EstudioMvc\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T21:29:40.56Z",
+              "WhenOpened": "2025-05-03T21:32:06.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudioMvcController.cs",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Controllers\\EstudioMvcController.cs",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Controllers\\EstudioMvcController.cs",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Controllers\\EstudioMvcController.cs",
+              "RelativeToolTip": "personapi-dotnet\\Controllers\\EstudioMvcController.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAuwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:31:40.504Z",
               "EditorCaption": ""
             }
           ]
