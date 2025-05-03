@@ -1,0 +1,26 @@
+﻿@model personapi_dotnet.Models.Entities.Telefono
+
+@{
+    ViewData["Title"] = "Eliminar Teléfono";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h3>¿Estás seguro que deseas eliminar este teléfono?</h3>
+
+<div>
+    <h4>@Model.Num</h4>
+    <dl class="row">
+        <dt class="col-sm-2">Operadora</dt>
+        <dd class="col-sm-10">@Model.Oper</dd>
+
+        <dt class="col-sm-2">Cédula Persona</dt>
+        <dd class="col-sm-10">@Model.Duenio</dd>
+    </dl>
+</div>
+
+<form asp-action="Delete">
+    <input type="hidden" asp-for="Num" />
+    <button type="submit" class="btn btn-danger">Eliminar</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+</form>

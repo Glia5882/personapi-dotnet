@@ -77,5 +77,84 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "personapi_dotnet.Controllers.TelefonoController",
+    "Method": "GetAll",
+    "RelativePath": "api/Telefono",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "personapi_dotnet.Controllers.TelefonoController",
+    "Method": "Create",
+    "RelativePath": "api/Telefono",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tel",
+        "Type": "personapi_dotnet.Models.Entities.Telefono",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "personapi_dotnet.Controllers.TelefonoController",
+    "Method": "GetById",
+    "RelativePath": "api/Telefono/{num}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "personapi_dotnet.Controllers.TelefonoController",
+    "Method": "Update",
+    "RelativePath": "api/Telefono/{num}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "tel",
+        "Type": "personapi_dotnet.Models.Entities.Telefono",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "personapi_dotnet.Controllers.TelefonoController",
+    "Method": "Delete",
+    "RelativePath": "api/Telefono/{num}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "num",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

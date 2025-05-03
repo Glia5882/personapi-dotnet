@@ -170,3 +170,4 @@ C:\Users\dan_v\OneDrive\Documentos\GitHub\personapi-dotnet\personapi-dotnet\pers
 C:\Users\dan_v\OneDrive\Documentos\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.pdb
 C:\Users\dan_v\OneDrive\Documentos\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.genruntimeconfig.cache
 C:\Users\dan_v\OneDrive\Documentos\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\obj\Debug\net8.0\ref\personapi-dotnet.dll
+C:\Users\dan_v\OneDrive\Documentos\GitHub\personapi-dotnet\personapi-dotnet\personapi-dotnet\obj\Debug\net8.0\personapi-dotnet.sourcelink.json

@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\controllers\\telefonomvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\controllers\\telefonomvccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\views\\telefonomvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\views\\telefonomvc\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\models\\entities\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\models\\entities\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\views\\telefonomvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\views\\telefonomvc\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\views\\telefonomvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\views\\telefonomvc\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\views\\telefonomvc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\views\\telefonomvc\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|c:\\users\\dan_v\\onedrive\\documentos\\github\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\views\\telefonomvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F651E8D5-059A-4272-89B2-270ADA7FAFF1}|personapi-dotnet\\personapi-dotnet.csproj|solutionrelative:personapi-dotnet\\views\\telefonomvc\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +43,92 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\.gitignore",
-              "RelativeDocumentMoniker": "personapi-dotnet\\.gitignore",
-              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\.gitignore",
-              "RelativeToolTip": "personapi-dotnet\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-03T19:58:56.05Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "personapi-dotnet\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "personapi-dotnet\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-03T19:53:29.498Z",
+              "Title": "TelefonoMvcController.cs",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Controllers\\TelefonoMvcController.cs",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Controllers\\TelefonoMvcController.cs",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Controllers\\TelefonoMvcController.cs",
+              "RelativeToolTip": "personapi-dotnet\\Controllers\\TelefonoMvcController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T20:58:50.068Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "personapi-dotnet\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "personapi-dotnet\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Models\\Entities\\Telefono.cs",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Models\\Entities\\Telefono.cs",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Models\\Entities\\Telefono.cs",
+              "RelativeToolTip": "personapi-dotnet\\Models\\Entities\\Telefono.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T19:50:27.076Z",
+              "WhenOpened": "2025-05-03T20:54:54.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Create.cshtml",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Views\\TelefonoMvc\\Create.cshtml",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Create.cshtml",
+              "RelativeToolTip": "personapi-dotnet\\Views\\TelefonoMvc\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T20:53:32.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Delete.cshtml",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Views\\TelefonoMvc\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Delete.cshtml",
+              "RelativeToolTip": "personapi-dotnet\\Views\\TelefonoMvc\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T20:53:24.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Details.cshtml",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Views\\TelefonoMvc\\Details.cshtml",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Details.cshtml",
+              "RelativeToolTip": "personapi-dotnet\\Views\\TelefonoMvc\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T20:53:15.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Edit.cshtml",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Views\\TelefonoMvc\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Edit.cshtml",
+              "RelativeToolTip": "personapi-dotnet\\Views\\TelefonoMvc\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T20:53:03.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Index.cshtml",
+              "RelativeDocumentMoniker": "personapi-dotnet\\Views\\TelefonoMvc\\Index.cshtml",
+              "ToolTip": "C:\\Users\\dan_v\\OneDrive\\Documentos\\GitHub\\personapi-dotnet\\personapi-dotnet\\personapi-dotnet\\Views\\TelefonoMvc\\Index.cshtml",
+              "RelativeToolTip": "personapi-dotnet\\Views\\TelefonoMvc\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T20:52:57.424Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
+using Microsoft.AspNetCore.Mvc.ModelBinding.Validation;
+using System;
 using System.Collections.Generic;
 
 namespace personapi_dotnet.Models.Entities;
@@ -11,5 +13,7 @@ public partial class Telefono
 
     public int Duenio { get; set; }
 
-    public virtual Persona DuenioNavigation { get; set; } = null!;
+    [ValidateNever]
+    public virtual Persona? DuenioNavigation { get; set; }
+
 }
