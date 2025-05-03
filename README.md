@@ -55,16 +55,21 @@ dotnet add package Microsoft.EntityFrameworkCore.Proxies
 ## 🐳 Base de datos con Docker
 
 Levantar el docker-compose.yml para acceder a la base de datos:
+
+```bash
 docker-compose up --build
+```
 
-acceder al contenedor de la base de datos desde SSMS:
-Servidor (Server name): localhost,1433
-Tipo de autenticación: SQL Server Authentication
-Login (User name): sa
-Password: La que esta definida en el docker-compose
+acceder al contenedor de la base de datos desde SSMS
+- Servidor (Server name): localhost,1433
+- Tipo de autenticación: SQL Server Authentication
+- Login (User name): sa
+- Password: La que esta definida en el docker-compose
 
+```bash
 dotnet ef migrations add InitialCreate
-dotnet ef database update
+dotnet ef database update 
+```
 
 ## 🗂️ Estructura del proyecto
 
