@@ -1,0 +1,33 @@
+﻿@model personapi_dotnet.Models.Entities.Estudio
+@{
+    ViewData["Title"] = "Agregar Estudio";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="form-group">
+        <label asp-for="CcPer">Persona</label>
+        <select asp-for="CcPer" class="form-control" asp-items="@(new SelectList(ViewBag.Personas, "Cc", "Nombre"))"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="IdProf">Profesión</label>
+        <select asp-for="IdProf" class="form-control" asp-items="@(new SelectList(ViewBag.Profesiones, "Id", "Nom"))"></select>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Fecha"></label>
+        <input asp-for="Fecha" class="form-control" type="date" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Univer"></label>
+        <input asp-for="Univer" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-success">Guardar</button>
+</form>
+<a asp-action="Index" class="btn btn-secondary">Volver</a>
