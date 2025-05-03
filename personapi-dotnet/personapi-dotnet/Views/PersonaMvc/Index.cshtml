@@ -1,0 +1,41 @@
+﻿@model IEnumerable<personapi_dotnet.Models.Entities.Persona>
+
+@{
+    ViewData["Title"] = "Lista de Personas";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<p>
+    <a asp-action="Create" asp-controller="PersonaMvc" class="btn btn-primary">Crear nueva persona</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cédula</th>
+            <th>Nombre</th>
+            <th>Apellido</th>
+            <th>Género</th>
+            <th>Edad</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Cc</td>
+                <td>@item.Nombre</td>
+                <td>@item.Apellido</td>
+                <td>@item.Genero</td>
+                <td>@item.Edad</td>
+                <td>
+                    <a asp-action="Edit" asp-controller="PersonaMvc" asp-route-id="@item.Cc">Editar</a> |
+                    <a asp-action="Details" asp-controller="PersonaMvc" asp-route-id="@item.Cc">Detalles</a> |
+                    <a asp-action="Delete" asp-controller="PersonaMvc" asp-route-id="@item.Cc">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

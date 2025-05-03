@@ -1,0 +1,32 @@
+﻿@model personapi_dotnet.Models.Entities.Persona
+
+@{
+    ViewData["Title"] = "Editar Persona";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<form asp-action="Edit" asp-controller="PersonaMvc">
+    <input type="hidden" asp-for="Cc" />
+    <div class="form-group">
+        <label asp-for="Nombre"></label>
+        <input asp-for="Nombre" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Apellido"></label>
+        <input asp-for="Apellido" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Genero"></label>
+        <select asp-for="Genero" class="form-control">
+            <option value="M">Masculino</option>
+            <option value="F">Femenino</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Edad"></label>
+        <input asp-for="Edad" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar cambios</button>
+</form>
+<a asp-action="Index" asp-controller="PersonaMvc" class="btn btn-secondary">Volver</a>
