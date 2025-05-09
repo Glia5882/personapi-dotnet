@@ -67,6 +67,7 @@ acceder al contenedor de la base de datos desde SSMS
 - Password: La que esta definida en el docker-compose
 
 ```bash
+dotnet tool install --global dotnet-ef
 dotnet ef migrations add InitialCreate
 dotnet ef database update 
 ```
